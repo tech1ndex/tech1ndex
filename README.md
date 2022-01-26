@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tech1ndex
 - 👀 I’m interested in Cloud Computing, System Architechture, Software Development and DevOps
 - 🌱 I’m currently learning Kubernetes
-- 💞️ I’m looking to collaborate on anything web/automation.
+- 💞️ I’m looking to collaborate on anything automation related!
 - 📫 You can reach me at bajadav@outlook.com
 
 <!---
