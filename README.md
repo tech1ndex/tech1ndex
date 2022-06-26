@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud Computing, System Architechture, Software Development and DevOps
 - 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on anything automation related!
-- 📫 You can reach me at bajadav@outlook.com
+- 📫 You can reach me at bajada.victor@gmail.com
 
 <!---
 tech1ndex/tech1ndex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
