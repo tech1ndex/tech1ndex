@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning GO
 - 💞️ I’m looking to collaborate on anything automation related!
 - 📫 You can reach me at bajada.victor@gmail.com
+- 👨‍💻 https://blog.tech1ndex.ca
 
 <!---
 tech1ndex/tech1ndex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
