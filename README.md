@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tech1ndex
 - 👀 I’m interested in Cloud Computing, System Architechture, Software Development and DevOps
-- 🌱 I’m currently learning GO
-- 💞️ I’m looking to collaborate on anything automation related!
+- 🐍 I’m currently learning Python
+- 💞️ I’m looking to collaborate on anything k8s related!
 - 👨‍💻 https://blog.tech1ndex.ca
 - 📫 You can reach me at --> mailto:vic@tech1ndex.ca
 
