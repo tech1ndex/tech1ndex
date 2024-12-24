@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tech1ndex
 - 👀 I’m interested in Cloud Computing, System Architechture, Software Development and DevOps
 - 🐍 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anything k8s/Cloud Native related!
+- 🤝 I’m looking to collaborate on anything cloud related!
 - 📫 You can reach me at --> mailto:vic@tech1ndex.ca
 
 
